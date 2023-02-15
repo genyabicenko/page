@@ -1,0 +1,125 @@
+.I {margin-left: 180px;
+margin-right: 180px;
+background-color: white;}
+
+.St {margin-left: 180px;
+    margin-right: 180px;
+  background-color: white;}
+
+.v{font-style: italic;
+   font-size: 75px;}
+
+p{font-style: initial;
+    font-weight: 400;}
+
+.p{font-style: italic;
+   font-weight: bold;}
+
+.b{margin-left: 200px;}
+
+.foto{margin-left: 10px;}
+
+.book{margin-left: 190px;
+    margin-right: 180px;
+    background-color: white;}
+
+.boo{margin-left: 135px;}
+
+.f{margin-left: 135px;}
+
+.fa{margin-left: 135px;}
+
+.faa{margin-left: 195px;}
+
+.tr{margin-left: 135px;}
+
+.trr{margin-left: 135px;}
+
+.fe{margin-left: 175px;}
+
+.fee{margin-left: 135px;}
+
+.l{margin-left: 135px;}
+
+.lo{margin-left: 135px;}
+
+.h{margin-left: 200px;}
+
+
+.hh{margin-left: 150px;}
+
+.shr{font-weight: bold;
+font-size: 14;
+text-decoration: underline;}
+
+body {margin: 0;}
+
+header {display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: white;
+  padding: 20px 20px;}
+
+  .H{display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 20px 220px;}
+  
+
+.wrap-logo {display: flex;
+  align-items: center;
+margin-left: 50px;}
+
+header a {color: #212121;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  border-radius: 1px;}
+
+header a.active {background-color: #f5f4f3;}
+
+
+nav {display: flex;
+     align-items: start;}
+
+.pol{font-size: 85px;
+     font-weight: bold;
+     font-style: italic;}
+
+.o{margin-left: 290px;}
+
+.oo{margin-left: 325px;}
+
+html {scroll-behavior: smooth;}
+
+body, html
+{width: 100%;}
+
+@media (max-width:768px) {}
+
+@media (max-width:320px) {}
+
+
+table{margin-left: 85px;
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+  background-color: white;}
+
+td, th {border: 1px solid rgb(190,190,190);
+      padding: 10px 20px;}
+
+td {text-align: center;}
+
+.r{background-color: rgb(80, 103, 206);}
+
+
+
+
+
+
+
